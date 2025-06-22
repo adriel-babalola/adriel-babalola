@@ -42,7 +42,7 @@ I’m a **16-year-old Nigerian software developer** with a heart full of curiosi
 ### 📫 Let’s Connect
 
 - 📧 Email: boluwatife12700@gmail.com
-- 🌐 GitHub: [@Adruel](https://github.com/Adruel)
+- 🌐 GitHub: [@Adruel](https://github.com/adriel-babalola)
 - 🔭 Projects: [OJtech Academy](https://boluwatife127.github.io/OJ-Tech-Academy-V1.0/lms.html)
 
 > “The future belongs to those who dare to build it. I’m just getting started.”
