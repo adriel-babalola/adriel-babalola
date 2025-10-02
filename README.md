@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=35&pause=1000&color=3FF7FF&width=600&lines=Hi%2C+I'm+Adriel+Babalola;Mechatronics+Engineering+Student+%40+FUT+Minna;STEM+%7C+Poetry+%7C+Tech+for+Humanity;Dreamer+on+a+NASA+Trajectory+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=35&pause=1000&color=E6EDF3&width=800&lines=Hi%2C+I'm+Adriel+Babalola;Mechatronics+Engineering+Student+%40+FUT+Minna;STEM+%7C+Poetry+%7C+Tech+for+Humanity;Dreamer+on+a+NASA+Trajectory+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## 👋 Hey there, I'm **Adriel Babalola**  
+## 👋 Hey there, I'm **Adriel Babalola**
 
 🎓 Mechatronics Engineering student at **FUT Minna, Nigeria**  
 🚀 In love with **STEM, NASA, and dreaming beyond limits**  
@@ -9,6 +10,8 @@
 ✍️ *Poet, essayist, coder, and eternal dreamer*  
 
 > *“I may not deliver the final impact or the last push, but I will cause change—no matter how small—because I dare to dream.”*  
+
+</div>
 
 ---
 
