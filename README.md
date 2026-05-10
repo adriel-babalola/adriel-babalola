@@ -6,7 +6,7 @@
 
 **`Engineer. Founder. Thinker.`**
 
-Second-year Mechatronics Engineering student @ **FUT Minna** · 5.0 GPA · 17 years old · building things that matter
+Second-year Mechatronics Engineering student @ **FUT Minna** · 5.0 GPA · building things that matter
 
 <br/>
 
@@ -24,7 +24,7 @@ Second-year Mechatronics Engineering student @ **FUT Minna** · 5.0 GPA · 17 ye
 Right now I'm deep in three things:
 
 - **[Athena](https://tryathena.app)** — an AI study companion that turns any concept (text, image, or PDF) into a ranked YouTube playlist. Built under RIEL Inc. Live. 126+ waitlist before launch. Three full architecture rebuilds. Currently adding PDF-to-playlist as a full Track 2 pipeline.
-- **CivicSense** — a civic intelligence platform for Nigerians delivered via WhatsApp, X, and a public web dashboard. Real-time conflict tracker, AI fact-checking, budget summaries, and election misconduct reporting. Built for BuildVerse Hackathon 2026.
+- **CivicSense** — a civic intelligence platform for Nigerians via WhatsApp, X, and a public web dashboard. Real-time conflict tracker, AI fact-checking, budget summaries, and election misconduct reporting. Built for BuildVerse Hackathon 2026.
 - **Omni-1** — a personal multi-agent AI system for automated scholarship discovery and research monitoring with a WhatsApp evening digest.
 
 ---
@@ -96,26 +96,22 @@ Right now I'm deep in three things:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adriel-babalola&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8&icon_color=3B82F6" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adriel-babalola&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1E293B&ring=3B82F6&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adriel-babalola&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8&icon_color=3B82F6" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=adriel-babalola&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1E293B&ring=3B82F6&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriel-babalola&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriel-babalola&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8&langs_count=8" height="150"/>
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adriel-babalola&bg_color=0D1117&color=94A3B8&line=3B82F6&point=E2E8F0&area=true&hide_border=true)](https://github.com/adriel-babalola)
 
 </div>
 
 ---
 
-## A bit more
-
-I'm 17. I started coding during the COVID lockdowns because I needed something to do and found I couldn't stop. Since then I've built production apps, won hackathons, led teams, and shipped hardware. I study Mechatronics Engineering at FUT Minna — because I want to build things that exist in the physical world, not just on screens.
-
-I build under **RIEL Inc.** I believe deeply in technology as a tool for African development, not just participation in global tech. Most of what I build is aimed at real problems I see around me.
-
-Outside code I read, write, keep a strong faith life, and think about the intersection of engineering and humanity more than is probably healthy.
-
-I'm interested in Quantum Information Science, ML, Physical AI, and eventually building systems at the intersection of all three.
+Interested in **Quantum Information Science**, **Machine Learning**, **Physical AI**, and eventually building systems at the intersection of all three.
 
 ---
 
