@@ -1,71 +1,126 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=35&pause=1000&color=E6EDF3&width=800&lines=Hi%2C+I'm+Adriel+Babalola;Mechatronics+Engineering+Student+%40+FUT+Minna;STEM+%7C+Poetry+%7C+Tech+for+Humanity;Dreamer+on+a+NASA+Trajectory+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=E2E8F0&center=true&vCenter=true&width=700&lines=Adriel+Babalola;Frontend+Engineer+%2B+Builder;RIEL+Inc.+%E2%80%94+Zaria%2C+Nigeria)](https://git.io/typing-svg)
 
-## 👋 Hey there, I'm **Adriel Babalola**
+<br/>
 
-🎓 Mechatronics Engineering student at **FUT Minna, Nigeria**  
-🚀 In love with **STEM, NASA, and dreaming beyond limits**  
-💡 Building solutions that blend **technology + humanity** to solve **UN SDGs**  
-✍️ *Poet, essayist, coder, and eternal dreamer*  
+**`Engineer. Founder. Thinker.`**
 
-> *“I may not deliver the final impact or the last push, but I will cause change—no matter how small—because I dare to dream.”*  
+Second-year Mechatronics Engineering student @ **FUT Minna** · 5.0 GPA · 17 years old · building things that matter
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/adrielbabalola.dev-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://adrielbabalola.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adriel-babalola)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrielbabalola@gmail.com)
+[![Instagram](https://img.shields.io/badge/@rielbuilds-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rielbuilds)
 
 </div>
 
 ---
 
-## 🚀 Tech Stack  
+## What I'm Building
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,php,laravel,python,cpp,dart,flutter" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=figma,postman,mysql,azure,gcp,vscode,git" />
-</p>
+Right now I'm deep in three things:
+
+- **[Athena](https://tryathena.app)** — an AI study companion that turns any concept (text, image, or PDF) into a ranked YouTube playlist. Built under RIEL Inc. Live. 126+ waitlist before launch. Three full architecture rebuilds. Currently adding PDF-to-playlist as a full Track 2 pipeline.
+- **CivicSense** — a civic intelligence platform for Nigerians delivered via WhatsApp, X, and a public web dashboard. Real-time conflict tracker, AI fact-checking, budget summaries, and election misconduct reporting. Built for BuildVerse Hackathon 2026.
+- **Omni-1** — a personal multi-agent AI system for automated scholarship discovery and research monitoring with a WhatsApp evening digest.
 
 ---
 
-## 📂 Featured Projects  
+## Stack
 
-- 🖥️ **Origami OS** – Exploring design + system creativity  
-- 🎓 **OJtech Academy** – Learning platform for web & graphics design  
-- 🎶 **Lofi-Code** – Music player for focus & creativity  
-- ⛪ **JAWOM Church Website** – Faith + community presence  
-- 🌍 **KRAME Website** – Web innovation for modern solutions  
+<div align="center">
 
----
+**Frontend**
 
-## ✍️ Creativity  
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
-💭 I balance my **technical side** with **poetry and essays**, reflecting innovation, faith, and humanity.  
-🌌 Dream: To **work at NASA** and build **Baymax-inspired tech** for the good of humanity.  
+**Backend & Data**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-## 📊 GitHub Stats  
+**AI & Integrations**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adriel-babalola&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adriel-babalola&theme=radical" height="165"/>
-</p>  
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriel-babalola&layout=compact&theme=radical" />
-</p>
+**Hardware & Systems**
 
----
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RP2040-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="mailto:adrielbabalola@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/adriel-babalola"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/adriel.127"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://tiktok.com/@adrielbabalola"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-</p>
+</div>
 
 ---
 
-⚡ *STEM • Poetry • Humanity — my way of coding change.*  
+## Projects
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| [Athena](https://tryathena.app) | AI study companion — text/image/PDF to ranked YouTube playlists | React 19, Node.js, Gemini AI, MongoDB | 🟢 Live |
+| [The Realest Poet](https://therealestpoet.vercel.app) | Poetry blog with full admin/writer CMS panel | Next.js, Tailwind, MongoDB, JWT | 🟢 Live |
+| CivicSense | Civic intelligence platform for Nigerians via WhatsApp + web | Node.js, AI, WhatsApp API | 🔧 In Progress |
+| [OJ Tech Academy LMS](https://github.com/adriel-babalola/OJ-Tech-Academy-LMS-Website) | Full LMS with student portal, educator dashboard, Stripe payments | React 19, Express, MongoDB, Clerk, Stripe | ✅ Built |
+| Idara | Offline-first AI lecture companion | React, Gemini AI | 🏆 MLH Win |
+| Genesis AI | AI analytics dashboard for NASA Space Biology datasets | React, TypeScript, FastAPI, Mistral-7B | 🏆 NASA Space Apps |
+| OrigamiOS | Autonomous task management via AI agents + n8n | JavaScript, n8n, OpenRouter | ✅ Built |
+
+---
+
+## Wins
+
+```
+🥇  MLH Gemini Hack Day 2026          →  Idara (offline-first AI lecture companion)
+🏅  BIEA STEM Future Leaders 2025     →  IPAS + BCFN innovation projects (team of 4)
+🚀  NASA Space Apps Challenge 2025    →  Genesis AI Knowledge Engine (team lead)
+✍️  Immerse Education Essay Award     →  2024
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adriel-babalola&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8&icon_color=3B82F6" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adriel-babalola&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1E293B&ring=3B82F6&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriel-babalola&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8" height="140"/>
+
+</div>
+
+---
+
+## A bit more
+
+I'm 17. I started coding during the COVID lockdowns because I needed something to do and found I couldn't stop. Since then I've built production apps, won hackathons, led teams, and shipped hardware. I study Mechatronics Engineering at FUT Minna — because I want to build things that exist in the physical world, not just on screens.
+
+I build under **RIEL Inc.** I believe deeply in technology as a tool for African development, not just participation in global tech. Most of what I build is aimed at real problems I see around me.
+
+Outside code I read, write, keep a strong faith life, and think about the intersection of engineering and humanity more than is probably healthy.
+
+I'm interested in Quantum Information Science, ML, Physical AI, and eventually building systems at the intersection of all three.
+
+---
+
+<div align="center">
+
+*Currently: second year · 5.0 GPA · building Athena + CivicSense · Zaria, Nigeria*
+
+</div>
