@@ -46,7 +46,6 @@ I build robotic, embedded, and sensing systems, from PCB design and sensor integ
 - Email: [adrielbabalola@gmail.com](mailto:adrielbabalola@gmail.com)
 - LinkedIn: [adriel-babalola](https://linkedin.com/in/adriel-babalola)
 
-
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=adriel-babalola&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://ghstats.dev" alt="GitHub stats" />
 </div>
