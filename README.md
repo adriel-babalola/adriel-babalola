@@ -47,5 +47,5 @@ I build robotic, embedded, and sensing systems, from PCB design and sensor integ
 - LinkedIn: [adriel-babalola](https://linkedin.com/in/adriel-babalola)
 
 <div align="center">
-  <img src="https://ghstats.dev" alt="GitHub stats" />
+  <img src="https://ghstats.dev/api/card?username=adriel-babalola&theme=tokyonight" alt="GitHub stats" />
 </div>
